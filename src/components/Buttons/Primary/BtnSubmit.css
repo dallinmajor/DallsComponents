@@ -1,0 +1,29 @@
+button {
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    display: inline-block;
+    font-weight: 400;
+    text-align: center;
+    vertical-align: middle;
+    border: 1px solid transparent;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    cursor: pointer;
+    text-rendering: auto;
+}
+
+@media all and (max-width: 480px) { 
+
+}
+@media all and (max-width: 736px) { 
+
+}
+@media all and (max-width: 980px) {
+    
+}
+@media all and (max-width: 1280px) { 
+
+}

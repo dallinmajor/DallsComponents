@@ -1,4 +1,4 @@
-import "BtnSubmit.css";
+import "./BtnSubmit.css";
 import React from 'react';
 
 export default ({clickEvent, text = "Submit"}) => (
